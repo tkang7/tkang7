@@ -1,6 +1,6 @@
 ![Alt text](./assets/sf_header.jpeg)
 
-<br>
+
 
 ![Alt text](./assets/typewriter.gif)
 
