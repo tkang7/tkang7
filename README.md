@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 ![Alt text](./assets/typewriter.gif)
 
 **Software Engineer | Machine Learning Engineer | Applied Scientist
@@ -55,11 +52,10 @@ Check out my repos for a mix of:
 <img src="./assets/bc.png" height="100" width="100"/></a>
 <img src="./assets/clb_secondary.png" height="100" width="100"/></a>
 <img src="./assets/pa_secondary.png"" height="100" width="100"/></a>
-<img src="./assets/ku.png" height="100" width="100"/></a>
-<img src="./assets/ubc_main.png" height="100" width="100"/></a>
+<img src="./assets/ku.png" style="height:100px; width:auto;" />
+<img src="./assets/ubc_main.png" width="100"/></a>
 </p>
 
 > “Language is the most powerful tool humans have — I’m here to help machines use it wisely.”
 
-Thanks for stopping by! 👋
->>>>>>> f84d4d9 (Finalized Version)
+Thanks for stopping by!
