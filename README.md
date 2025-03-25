@@ -1,8 +1,11 @@
 ![Alt text](./assets/sf_header.jpeg)
 
 
-
-![Alt text](./assets/typewriter.gif)
+<picture>
+  <source srcset="./assets/typewriter_light.gif" media="(prefers-color-scheme: light)" />
+  <source srcset="./assets/typewriter_dark.gif" media="(prefers-color-scheme: dark)" />
+  <img src="./assets/typewriter_light.gif" alt="Hi! I'm David" />
+</picture>
 
 **Software Engineer | Machine Learning Engineer | Applied Scientist**<br>
 🏢 Currently @ Fraser Health & UBC NLP Lab (Prev. @ Settle & SAP)<br>
@@ -52,11 +55,11 @@ I'm an ⚙️ **Engineer**, 🧠 **Researcher,** and **💡Entrepreneur** and I 
 <img src="./assets/sap.webp" height="100" width="100"/></a>
 <img src="./assets/cp.webp" height="100" width="100"/></a>
 <img src="./assets/gu.png" height="100" width="100"/></a>
-<img src="./assets/bc.png" height="100" width="100"/></a>
+<!-- <img src="./assets/bc.png" height="100" width="100"/></a> -->
 <img src="./assets/clb_secondary.png" height="100" width="100"/></a>
 <img src="./assets/pa_secondary.png"" height="100" width="100"/></a>
 <img src="./assets/ku.png" style="height:100px; width:auto;" />
-<img src="./assets/ubc_main.png" width="100"/></a>
+<!-- <img src="./assets/ubc_main.png" width="100"/></a> -->
 </p>
 
 > “Language is the most powerful tool humans have — I’m here to help machines use it wisely.”
