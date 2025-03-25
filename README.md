@@ -1,6 +1,6 @@
 ![Alt text](./assets/sf_header.jpeg)
 
-
+<br>
 
 ![Alt text](./assets/typewriter.gif)
 
@@ -43,7 +43,7 @@ I'm an ⚙️ **Engineer**, 🧠 **Researcher,** and **💡Entrepreneur** and I 
 
 ---
 
-## 🛠️ Professional Affliations
+## 🛠️ Affliations
 
 <p align="left">
 <img src="./assets/fh.png" height="100" width="100" style="max-width: 100%;margin-right: 5px;"/></a>
