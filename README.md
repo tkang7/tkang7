@@ -1,3 +1,7 @@
+![Alt text](./assets/sf_header.jpeg)
+
+
+
 ![Alt text](./assets/typewriter.gif)
 
 **Software Engineer | Machine Learning Engineer | Applied Scientist
@@ -22,9 +26,7 @@ I'm an ⚙️ **Engineer**, 🧠 **Researcher,** and **💡Entrepreneur** and I 
 
 ## 🛠️ Projects & Research
 
-Check out my repos for a mix of:
-
-### 🔬 Research
+🔬 Research
 
 - 📄 Bridging Information Gaps with Comprehensive Answers: Improving the Diversity and Informativeness of Follow-Up Questions [[ArXiv Preprint Link](https://arxiv.org/abs/2502.17715)]
   **Taekyu Kang***, Zhe Liu*, Haoyu Wang, Seyed Hossein Alavi, Vered Shwartz
@@ -58,4 +60,4 @@ Check out my repos for a mix of:
 
 > “Language is the most powerful tool humans have — I’m here to help machines use it wisely.”
 
-Thanks for stopping by!
+Thanks for stopping by! 👋🏼
