@@ -4,10 +4,17 @@
 
 ![Alt text](./assets/typewriter.gif)
 
-**Software Engineer | Machine Learning Engineer | Applied Scientist
-🏢** Currently @ F**raser Health** & **UBC NLP Lab** (Prev. @ **Settle &** **SAP**)
+**Software Engineer | Machine Learning Engineer | Applied Scientist**
+
+
+****🏢** Currently @ F**raser Health** & **UBC NLP Lab** (Prev. @ **Settle &** **SAP**)
+
+
 🏫 Master of Data Science in Computational Linguistics @ UBC
-🏫 Bachelor of Applied Science in Computer Engineering & Minor in Business @ UBC
+
+
+🏫 Bachelor of Applied Science in Computer Engineering & Minor in Business @ UBC**
+
 
 [LinkedIn](https://www.linkedin.com/in/kang-david/) | [GitHub](https://github.com/tkang7)
 
