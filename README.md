@@ -1,29 +1,5 @@
 ![Alt text](./assets/typewriter.gif)
 
-
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes blink {
-  50% { border-color: transparent }
-}
-
-.typing-demo {
-  width: 18ch;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid;
-  font-family: monospace;
-  font-size: 1.2em;
-  animation: typing 2s steps(18), blink 0.5s step-end infinite alternate;
-}
-</style>
-
-<div class="typing-demo">Taekyu Kang</div>
-
-
 **Software Engineer | Machine Learning Engineer | Applied Scientist
 🏢** Currently @ F**raser Health** & **UBC NLP Lab** (Prev. @ **Settle &** **SAP**)
 🏫 Master of Data Science in Computational Linguistics @ UBC
