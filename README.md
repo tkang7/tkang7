@@ -13,7 +13,7 @@
 🏫 Bachelor of Applied Science in Computer Engineering & Minor in Business @ UBC  
 
 
-[LinkedIn](https://www.linkedin.com/in/kang-david/) | [GitHub](https://github.com/tkang7)
+[LinkedIn](https://www.linkedin.com/in/kang-david/) | [GitHub](https://github.com/tkang7) | [Google Scholar]([https://github.com/tkang7](https://scholar.google.ca/citations?hl=en&user=PQR6I_gAAAAJ)) 
 
 ---
 
