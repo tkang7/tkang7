@@ -1,17 +1,15 @@
 ![Alt text](./assets/sf_header.jpeg)
 
-
 <picture>
   <source srcset="./assets/typewriter_light.gif" media="(prefers-color-scheme: light)" />
   <source srcset="./assets/typewriter_dark.gif" media="(prefers-color-scheme: dark)" />
   <img src="./assets/typewriter_light.gif" alt="Hi! I'm David" />
 </picture>
 
-**Software Engineer | Machine Learning Engineer | Applied Scientist**<br>
-🏢 Currently @ Fraser Health & UBC NLP Lab (Prev. @ Settle & SAP)<br>
-🏫 Master of Data Science in Computational Linguistics (NLP) @ UBC<br>
-🏫 Bachelor of Applied Science in Computer Engineering & Minor in Business @ UBC  
-
+**Software Engineer | Machine Learning Engineer | Applied Scientist**  
+🏢 Currently @ Fraser Health Authority & UBC NLP Lab (Prev. @ Settle & SAP)  
+🏫 Master of Data Science in Computational Linguistics (NLP) @ UBC (Industry Partner: Boeing)  
+🏫 Bachelor of Applied Science in Computer Engineering & Minor in Business @ UBC
 
 [LinkedIn](https://www.linkedin.com/in/kang-david/) | [GitHub](https://github.com/tkang7)
 
@@ -49,6 +47,7 @@ I'm an ⚙️ **Engineer**, 🧠 **Researcher,** and **💡Entrepreneur** and I 
 ## 🛠️ Affliations
 
 <p align="left">
+<img src="./assets/boeing.jpg" height="100" width="100"/></a>
 <img src="./assets/fh.png" height="100" width="100" style="max-width: 100%;margin-right: 5px;"/></a>
 <img src="./assets/nlp.png" height="100" width="100"/></a>
 <img src="./assets/settle.jpeg" height="100" width="100"/></a>
