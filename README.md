@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm an ⚙️ **Engineer**, 🧠 **Researcher,** and **💡Entrepreneur** and I make elegantly professional 💻 **Software** and 🤖 **AI** **Applications** (LLM Agents, RAG, Fine-tuned Models) that are 🏛️ **Business Objective Oriented**.
+I'm an **Engineer**, **Researcher,** and **Entrepreneur** and I make elegant **Software** and **AI** **Applications** (LLM Agents, RAG, Fine-tuned Models) that are **Business Objective Oriented**.
 
 - 🧠 **AI Research** — Focused on NLP, LLMs, Multi-Modality, and Model Reasoning and Optimization.
 - 💻 **Engineering Rigor** — Shipped production systems at companies like **Settle** and **SAP**, where I worked on APIs, scalable backends, and NLP pipelines.
